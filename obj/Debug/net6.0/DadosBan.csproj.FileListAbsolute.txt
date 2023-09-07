@@ -1,0 +1,15 @@
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\bin\Debug\net6.0\DadosBan.exe
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\bin\Debug\net6.0\DadosBan.deps.json
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\bin\Debug\net6.0\DadosBan.runtimeconfig.json
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\bin\Debug\net6.0\DadosBan.dll
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\bin\Debug\net6.0\DadosBan.pdb
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.csproj.AssemblyReference.cache
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.AssemblyInfo.cs
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.dll
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\refint\DadosBan.dll
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.pdb
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\DadosBan.genruntimeconfig.cache
+C:\Users\lucia\documentos\C#\Mentoria\ConsoleApp1\DadosBan\obj\Debug\net6.0\ref\DadosBan.dll
